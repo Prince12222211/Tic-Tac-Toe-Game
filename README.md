@@ -15,4 +15,6 @@ The rules are simple:
 
 Author:PRINCE KUMAR VERMA
 LOVELY PROFESSIONAL UNIVERSITY 
+<br>
+<a href="https://prince12222211.github.io/Tic-Tac-Toe-Game/">To preview my project </a>
 
